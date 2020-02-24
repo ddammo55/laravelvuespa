@@ -1,0 +1,10 @@
+$fa-font-path :"../webfonts";
+
+//fontawesome
+@import '~@fortawesome/fontawesome-free/scss/fontawesome.scss';
+@import '~@fortawesome/fontawesome-free/scss/solid.scss';
+
+// 모달 뒤배경 흐리게
+.modal-backdrop{
+    background-color: rgb(0,0,0,0.5) !important;
+}
